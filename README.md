@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amanbachche/amanbachche/main/tony-stark.gif" alt="Tony Stark" width="700"/>
+  <img src="https://github.com/AmanBachche/AmanBachche/blob/main/tony-stark-iron-man.gif" alt="Tony Stark" width="700"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Aman Bachche</h1>
